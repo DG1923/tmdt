@@ -1,0 +1,881 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\phat_trien_tmdt\\nhom17-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\viewcomponents\\topviewedproductsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\viewcomponents\\topviewedproductsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\helpers\\mysetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\helpers\\mysetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\viewmodels\\checkoutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\viewmodels\\checkoutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\viewcomponents\\topsellingproductsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\viewcomponents\\topsellingproductsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\wwwroot\\shop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\wwwroot\\shop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\viewmodels\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\viewmodels\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\controllers\\acountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\controllers\\acountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Downloads\\web\\nhom17-master\\Ecommerce\\Controllers\\CartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\wwwroot\\chackout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\wwwroot\\chackout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\hanghoa\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\hanghoa\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\viewcomponents\\latestproductsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\viewcomponents\\latestproductsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\hanghoas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\hanghoas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\shared\\_layoutadminhanghoas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\shared\\_layoutadminhanghoas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\shared\\components\\topsellingproducts\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\shared\\components\\topsellingproducts\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\shared\\components\\topviewedproducts\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\shared\\components\\topviewedproducts\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\shared\\components\\latestproducts\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\shared\\components\\latestproducts\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\shared\\components\\cart\\cartpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\shared\\components\\cart\\cartpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\viewmodels\\menuloaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\viewmodels\\menuloaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\data\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\data\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\shared\\_timkiempanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\shared\\_timkiempanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\home\\pagenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\home\\pagenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\data\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\data\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\viewmodels\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\viewmodels\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|e:\\phat_trien_tmdt\\nhom17-master\\ecommerce\\views\\hoadons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C97EDE-1814-4287-AA21-9D37234934B4}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\views\\hoadons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MySetting.cs",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Helpers\\MySetting.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Helpers\\MySetting.cs",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Helpers\\MySetting.cs",
+              "RelativeToolTip": "Ecommerce\\Helpers\\MySetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:15:03.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KhachHangsController.cs",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Controllers\\KhachHangsController.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Controllers\\KhachHangsController.cs",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Controllers\\KhachHangsController.cs",
+              "RelativeToolTip": "Ecommerce\\Controllers\\KhachHangsController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:12:38.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Controllers\\KhachHangController.cs",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "Ecommerce\\Controllers\\KhachHangController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:12:35.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAkwLEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T17:07:10.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T17:06:51.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TopSellingProductsViewComponent.cs",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\ViewComponents\\TopSellingProductsViewComponent.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\ViewComponents\\TopSellingProductsViewComponent.cs",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\ViewComponents\\TopSellingProductsViewComponent.cs",
+              "RelativeToolTip": "Ecommerce\\ViewComponents\\TopSellingProductsViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:52:21.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "shop.html",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\wwwroot\\shop.html",
+              "RelativeDocumentMoniker": "Ecommerce\\wwwroot\\shop.html",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\wwwroot\\shop.html",
+              "RelativeToolTip": "Ecommerce\\wwwroot\\shop.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-16T14:59:41.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartViewComponent.cs",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\ViewComponents\\CartViewComponent.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\ViewComponents\\CartViewComponent.cs",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\ViewComponents\\CartViewComponent.cs",
+              "RelativeToolTip": "Ecommerce\\ViewComponents\\CartViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:20:23.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Controllers\\CartController.cs",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Ecommerce\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAowKgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:22:28.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HangHoaVM.cs",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\ViewModels\\HangHoaVM.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\ViewModels\\HangHoaVM.cs",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\ViewModels\\HangHoaVM.cs",
+              "RelativeToolTip": "Ecommerce\\ViewModels\\HangHoaVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:43:43.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CheckoutVM.cs",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\ViewModels\\CheckoutVM.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\ViewModels\\CheckoutVM.cs",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\ViewModels\\CheckoutVM.cs",
+              "RelativeToolTip": "Ecommerce\\ViewModels\\CheckoutVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:06:34.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TopViewedProductsViewComponent.cs",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\ViewComponents\\TopViewedProductsViewComponent.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\ViewComponents\\TopViewedProductsViewComponent.cs",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\ViewComponents\\TopViewedProductsViewComponent.cs",
+              "RelativeToolTip": "Ecommerce\\ViewComponents\\TopViewedProductsViewComponent.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIAwwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:46:37.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\HangHoa\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\HangHoa\\Detail.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\HangHoa\\Detail.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\HangHoa\\Detail.cshtml",
+              "ViewState": "AQIAAPsAAAAAAAAAAIBZwBIBAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T18:36:09.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\appsettings.json",
+              "RelativeDocumentMoniker": "Ecommerce\\appsettings.json",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\appsettings.json",
+              "RelativeToolTip": "Ecommerce\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T16:58:47.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Controllers\\HangHoaController.cs",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "Ecommerce\\Controllers\\HangHoaController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAUwD4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:48:15.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_DanhSachHangHoa.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T17:40:12.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Ecommerce\\appsettings.Development.json",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\appsettings.Development.json",
+              "RelativeToolTip": "Ecommerce\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T16:47:17.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductItem.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\HangHoa\\ProductItem.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\HangHoa\\ProductItem.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\HangHoa\\ProductItem.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\HangHoa\\ProductItem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T19:14:02.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "chackout.html",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\wwwroot\\chackout.html",
+              "RelativeDocumentMoniker": "Ecommerce\\wwwroot\\chackout.html",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\wwwroot\\chackout.html",
+              "RelativeToolTip": "Ecommerce\\wwwroot\\chackout.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-16T14:59:40.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Program.cs",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Program.cs",
+              "RelativeToolTip": "Ecommerce\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAkwEIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:58:47.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\web\\nhom17-master\\Ecommerce\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\web\\nhom17-master\\Ecommerce\\Controllers\\CartController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:14:22.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AcountController.cs",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Controllers\\AcountController.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Controllers\\AcountController.cs",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Controllers\\AcountController.cs",
+              "RelativeToolTip": "Ecommerce\\Controllers\\AcountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:19:29.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\HangHoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\HangHoa\\Index.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\HangHoa\\Index.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\HangHoa\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T17:49:28.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AQIAAHIAAAAAAAAAAIBZwHkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T16:57:07.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ecommerce\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAIBZwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:28:27.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T19:24:13.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LatestProductsViewComponent.cs",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\ViewComponents\\LatestProductsViewComponent.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\ViewComponents\\LatestProductsViewComponent.cs",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\ViewComponents\\LatestProductsViewComponent.cs",
+              "RelativeToolTip": "Ecommerce\\ViewComponents\\LatestProductsViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:19:28.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MenuLoaiViewComponent.cs",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeToolTip": "Ecommerce\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:20:24.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\HangHoa\\Search.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\HangHoa\\Search.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\HangHoa\\Search.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\HangHoa\\Search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T19:18:28.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T04:24:19.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_LayoutAdminHangHoas.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\_LayoutAdminHangHoas.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\Shared\\_LayoutAdminHangHoas.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\_LayoutAdminHangHoas.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\Shared\\_LayoutAdminHangHoas.cshtml",
+              "ViewState": "AQIAAHIAAAAAAAAAAIBZwLQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T16:06:26.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\HangHoas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\HangHoas\\Index.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\HangHoas\\Index.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\HangHoas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T17:47:46.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HangHoasController.cs",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Controllers\\HangHoasController.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Controllers\\HangHoasController.cs",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Controllers\\HangHoasController.cs",
+              "RelativeToolTip": "Ecommerce\\Controllers\\HangHoasController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwBkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:22:39.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\Components\\TopSellingProducts\\Default.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\Shared\\Components\\TopSellingProducts\\Default.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\Components\\TopSellingProducts\\Default.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\Shared\\Components\\TopSellingProducts\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T14:53:29.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T16:47:59.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\Components\\TopViewedProducts\\Default.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\Shared\\Components\\TopViewedProducts\\Default.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\Components\\TopViewedProducts\\Default.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\Shared\\Components\\TopViewedProducts\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T06:51:08.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\Components\\LatestProducts\\Default.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\Shared\\Components\\LatestProducts\\Default.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\Components\\LatestProducts\\Default.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\Shared\\Components\\LatestProducts\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T14:21:23.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T16:47:28.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Loai.cs",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Data\\Loai.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Data\\Loai.cs",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Data\\Loai.cs",
+              "RelativeToolTip": "Ecommerce\\Data\\Loai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:22:32.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CartPanel.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T12:07:28.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MenuLoaiVM.cs",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\ViewModels\\MenuLoaiVM.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\ViewModels\\MenuLoaiVM.cs",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\ViewModels\\MenuLoaiVM.cs",
+              "RelativeToolTip": "Ecommerce\\ViewModels\\MenuLoaiVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:22:27.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_TimKiemPanel.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T19:22:07.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T19:22:04.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T19:22:02.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PageNotFound.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Home\\PageNotFound.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\Home\\PageNotFound.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Home\\PageNotFound.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\Home\\PageNotFound.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T19:21:07.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Data\\HoaDon.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Data\\HoaDon.cs",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Data\\HoaDon.cs",
+              "RelativeToolTip": "Ecommerce\\Data\\HoaDon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:41:29.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T16:48:10.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T17:01:53.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\ViewModels\\CartModel.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\ViewModels\\CartModel.cs",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\ViewModels\\CartModel.cs",
+              "RelativeToolTip": "Ecommerce\\ViewModels\\CartModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:43:33.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\HoaDons\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce\\Views\\HoaDons\\Index.cshtml",
+              "ToolTip": "E:\\phat_trien_tmdt\\nhom17-master\\Ecommerce\\Views\\HoaDons\\Index.cshtml",
+              "RelativeToolTip": "Ecommerce\\Views\\HoaDons\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBZwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T16:39:43.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
